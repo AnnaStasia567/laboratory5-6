@@ -1,0 +1,5 @@
+D:\Інформатика\C++\prizma\x64\Release\prizma.vcxproj.AssemblyReference.cache
+D:\Інформатика\C++\prizma\x64\Release\prizma.vcxproj.SuggestedBindingRedirects.cache
+D:\Інформатика\C++\prizma\x64\Release\prizma.MyForm.resources
+D:\Інформатика\C++\prizma\x64\Release\prizma.vcxproj.GenerateResource.cache
+D:\Інформатика\C++\prizma\x64\Release\prizma.exe

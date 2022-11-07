@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\prizma\MyForm.h(412,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Інформатика\C++\prizma\MyForm.h(413,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  prizma.vcxproj -> D:\Інформатика\C++\prizma\x64\Debug\prizma.exe
